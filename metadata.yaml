@@ -1,0 +1,26 @@
+_repo: Sister-Gertrude-A-Tale-of-the-West-Riding_53919
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sykes, D. F. E.
+    alias: Sykes, Daniel Frederick Edward
+    birthdate: 1856
+    deathdate: 1920
+    gutenberg_agent_id: '47627'
+    url: http://www.gutenberg.org/2009/agents/47627
+description: ''
+gutenberg_issued: '2017-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53919'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West Riding of Yorkshire (England) -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Sister Gertrude: A Tale of the West Riding'
+url: http://www.gutenberg.org/ebooks/53919
